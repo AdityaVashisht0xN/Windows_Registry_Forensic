@@ -4,6 +4,7 @@ WRFA (Windows Registry Forensic Analyzer) is a forensic tool designed to analyze
 The tool operates entirely in offline and read-only mode, ensuring that the original evidence remains intact and unmodified.
 Features
 
+
 •	Read-only forensic analysis (evidence integrity preserved)
 •	CSV, HTML, and PDF report generation
 •	Risk classification (HIGH / MEDIUM / INFO)
