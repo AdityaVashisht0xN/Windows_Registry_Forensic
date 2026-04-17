@@ -37,6 +37,7 @@ Recommended Method:
 - Extract registry hives from the image
 
 #Required Folder Structure:
+
 evidence/
 ├── SYSTEM
 ├── SOFTWARE
