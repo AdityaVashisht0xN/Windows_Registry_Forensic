@@ -39,6 +39,7 @@ Recommended Method:
 #Required Folder Structure:
 
 evidence/
+
 ├── SYSTEM
 ├── SOFTWARE
 ├── SAM
