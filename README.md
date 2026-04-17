@@ -1,4 +1,5 @@
 [WRFA_README.docx](https://github.com/user-attachments/files/26812204/WRFA_README.docx)
+
 #WRFA - Windows Registry Forensic Analyzer#
 WRFA (Windows Registry Forensic Analyzer) is a forensic tool designed to analyze Windows Registry hive files and extract critical system and user activity artifacts.
 
